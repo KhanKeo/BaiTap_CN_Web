@@ -1,0 +1,16 @@
+
+.From {
+	padding: 30px;
+	background-color: aqua;
+
+}
+.label {
+	padding: 10px 10px;
+}
+.From h1 {
+	text-align: center;
+}
+.From form {
+	background-color: rgb(255, 255, 255);
+	text-align: center;
+}

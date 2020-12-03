@@ -1,0 +1,120 @@
+li {
+	list-style-type: none;
+}
+a {
+	text-decoration: none;
+}
+.logo ul li {
+	color: black;
+}
+ul li {
+	padding-left: 20px;
+	margin-top: 40px;
+	
+}
+
+nav{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 95%;
+	height: 100px;
+	padding: 10px 15px;
+}
+nav .logo{
+	padding: 22px 15px;
+	height: 80px;
+	float: left;
+	font-size: 50px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color:#fff;
+}
+nav ul{
+	list-style: none;
+	float: right;
+	margin: 0;
+	padding: 0;
+	display: flex;
+}
+v ul li a {
+	line-height: 80px;
+	color:rgb(2, 0, 0);
+	padding: 12px 30px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.text-1 {
+    padding-top: 40px;
+    text-align: center;
+}
+.text-1 p {
+	line-height: 40px;
+}
+
+.text-bg {
+    display: block;
+    position: absolute;
+    text-align: center;
+    top: 80%;
+	left: 40%;
+	color: cornsilk;
+}
+.text-bg h1 {
+	font-size: 50px;
+}
+.text-bg p {
+	font-size: 20px;
+	font-family: 'Sansita Swashed', cursive;
+
+}
+	
+.body {
+    padding-top: 50px;
+    text-align: center;
+
+}
+.body_left {
+    float: left;
+    width: 50%;
+}
+.body_right {
+   
+    float: right;
+    width: 50%;
+}
+.body img {
+    width: 90%;
+}
+.body_left p {
+	line-height: 40px;
+}
+.body_right p {
+	line-height: 40px;;
+}
+button {
+	border-radius: 10px ;
+	background-color: rgb(39, 221, 245);
+	padding: 5px;
+	
+}
+.clr1 {
+	clear: both;
+}
+.w-end {
+	background-color: rgb(243, 189, 189);
+	text-align: center;
+}
+.w-end h2 p {
+	color: #fff;
+	margin-top: auto;
+}
+.w-end  p {
+	line-height: 40px;
+}
+
+
+

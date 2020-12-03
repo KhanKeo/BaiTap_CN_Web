@@ -1,0 +1,36 @@
+li {
+	list-style-type: none;
+}
+a {
+	text-decoration: none;
+}
+.logo {
+	padding-top: 10px;
+	float: left;
+}
+.warpper ul li {
+	float: left;
+	font-size: 20px;
+	padding-top: 20px;
+
+	margin-left: 50px;
+
+}
+.warpper li {
+
+	padding-left: 20px;
+}
+
+.text-bg{
+	display: block;
+	top: 30%;
+	position: absolute;
+	font-size: 40px;
+	font-weight: 100px;
+	color: #fff;
+	text-align: center;
+
+	
+
+}
+
